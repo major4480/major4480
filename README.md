@@ -2,7 +2,6 @@
   <img src="university_of_limpopo_logo.png" alt="University of Limpopo" width="180"/>
 </p>
 
-<h1 align="center">STHEMBISO MTHOMBENI</h1>
 <h3 align="center">BSc Mathematical Sciences majoring in Computer Science and Statistics</h3>
 
 <h2>Bonjour, I'm Sthembiso Mthombeni 👋</h2>
