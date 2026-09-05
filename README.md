@@ -17,7 +17,7 @@
 - Data Analytics courses and projects
 - Establishing my personal brand and online presence
 
-### 🌱 I'm currently learning
+### 🌱 Mastering/Proficiency in
 
 - 🐍 Python for Data Analytics
 - 📊 Microsoft Power BI
