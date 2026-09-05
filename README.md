@@ -17,7 +17,7 @@
 - Data Analytics courses and projects
 - Establishing my personal brand and online presence
 
-### 🌱 Mastering/Proficiency in
+### 🌱 Mastering/Proficient in
 
 - 🐍 Python for Data Analytics
 - 📊 Microsoft Power BI
