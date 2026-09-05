@@ -7,7 +7,7 @@
 
 <h2>Bonjour, I'm Sthembiso Mthombeni 👋</h2>
 
-**BSc Computer Science and Statistics Graduate**
+**BSc Computer Science and Statistics Graduate** | **University of Limpopo***
 
 ### 📫 How to reach me
 
